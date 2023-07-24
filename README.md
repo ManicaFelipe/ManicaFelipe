@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ManicaFelipe/ManicaFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+figure>
+    <img height="400" src=""
+         alt="Clavarioid fungi, Clavaria sp.">
+    <figcaption><strong>Clavarioid fungi, <em>Clavaria</em> sp.</strong></figcaption>
+</figure>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
