@@ -1,5 +1,11 @@
+body,html{
+    heigh=100%;
+    marge=0;
+}
+
+
 .bg{
     background-image: url("background.png");
     background-size: cover;
     background-repeat: no-repeat;
-    }
+}
