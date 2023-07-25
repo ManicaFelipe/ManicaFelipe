@@ -58,7 +58,7 @@
    <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30">My Contribution
 </h2>
 <p align="center">
-  <img src="" alt="snake"></center>
+  <img src="https://github.com/ManicaFelipe/ManicaFelipe/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
