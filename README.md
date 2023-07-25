@@ -1,6 +1,3 @@
-
-
-
 <div style="position: relative;">
   <img src="https://github.com/ManicaFelipe/ManicaFelipe/assets/112133618/1a84feff-e1cf-4261-85c7-37bf76891c5b" alt="Imagem personalizada" width="1200" height="300">
 
