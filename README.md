@@ -1,14 +1,22 @@
+
+
+
 <div style="position: relative;">
   <img src="https://github.com/ManicaFelipe/ManicaFelipe/assets/112133618/1a84feff-e1cf-4261-85c7-37bf76891c5b" alt="Imagem personalizada" width="1200" height="300">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(255, 255, 255, 0.7); padding: 10px;">
-    <h2 style="text-align: center;">Hi, I'm Felipe Manica</h2>
-    <p style="text-align: center;">Software Engineer (undergrad student)</p>
-    <p style="text-align: center;">DevOps </p>
-    <p style="text-align: center;">DevSecOps</p>
-  </div>
+
+<p align="right">
+  <img src="https://badges.pufler.dev/visits/ritik307/ManicaFelipe"/> 
+  <!-- <img src="https://badges.pufler.dev/years/ManicaFelipe"/> -->
+  <img src="https://badges.pufler.dev/repos/ManicaFelipe"/>
+  <img src="https://badges.pufler.dev/commits/monthly/ManicaFelipe" />
+</p>
+<h2 style="text-align: center;">Felipe Manica</h2>
+  <p style="text-align: center;">- Software Engineer (undergrad student)</p>
+  <p style="text-align: center;">- DevOps </p>
+  <p style="text-align: center;">- DevSecOps</p>  
 </div>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center"><img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30">Technology Stack </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
@@ -29,10 +37,11 @@
   <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon"/>
   <img src="https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud"/>
   <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure"/>
+
   
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/L3u0T2DZ3D55srukju/giphy.gif" width="20">Contacts</h2>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
@@ -46,19 +55,19 @@
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30">My Contribution
 </h2>
 <p align="center">
   <img src="" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">My Github Stats
 </h2>
  
 <br>
 
-<p align = "center">
+<p align = "right">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ManicaFelipe&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ManicaFelipe&hide=Bash,C,Java,JavaScript,&theme=radical">
 </p>
