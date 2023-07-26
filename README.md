@@ -1,5 +1,4 @@
-<div style="position: relative;">
-  <img src="https://github.com/ManicaFelipe/ManicaFelipe/assets/112133618/1a84feff-e1cf-4261-85c7-37bf76891c5b" alt="Imagem personalizada" width="1200" height="300">
+<img src="https://github.com/ManicaFelipe/ManicaFelipe/assets/112133618/1a84feff-e1cf-4261-85c7-37bf76891c5b" alt="Imagem personalizada" width="1200" height="300">
 
 <p align="right">
   <img src="https://badges.pufler.dev/visits/ritik307/ManicaFelipe"/> 
@@ -7,13 +6,21 @@
   <img src="https://badges.pufler.dev/repos/ManicaFelipe"/>
   <img src="https://badges.pufler.dev/commits/monthly/ManicaFelipe" />
 </p>
-<h2 style="text-align: center;">Felipe Manica</h2>
-  <p style="text-align: center;">- Software Engineer (undergrad student)</p>
-  <p style="text-align: center;">- DevOps </p>
-  <p style="text-align: center;">- DevSecOps</p>  
-</div>
 
-<h2 align="center"><img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30">Technology Stack </h2>
+<h2>
+  <a align="left">Felipe Manica</align></a>             &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a align="right">Contacts</align></a>
+</h2>
+  
+- Software Engineer Student
+
+<p align="right">
+  <a href="https://www.youtube.com/c/ManicaFelipe"><img width="40px" alt="Linkedin" title="Linkedin" src="https://github.com/ManicaFelipe/ManicaFelipe/assets/112133618/8f36e5cf-9344-43a5-839f-e4351ddee5de"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/c/ManicaFelipe"><img width="50px" alt="E-mail" title="E-mail" src="https://github.com/ManicaFelipe/ManicaFelipe/assets/112133618/0fce1adb-f708-4dde-96b5-06d6adb09d86"/></a> 
+</p>
+
+## Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
@@ -34,47 +41,37 @@
   <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon"/>
   <img src="https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud"/>
   <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure"/>
-
-  
 </p>
 
-<h2 align="center"><img src="https://media2.giphy.com/media/L3u0T2DZ3D55srukju/giphy.gif" width="20">Contacts</h2>
+## My Contribution
 
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: felipe.manicaeng@gmail.com">
- <img src=""/>
-</a>
-<a href="">
- <img src=""/>
-</a>
-</p>
-
-
-<h2 align="center">
-   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30">My Contribution
-</h2>
 <p align="center">
   <img src="https://github.com/ManicaFelipe/ManicaFelipe/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">My Github Stats
-</h2>
- 
-<br>
+## My Github Stats
 
-<p align = "right">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ManicaFelipe&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ManicaFelipe&hide=Bash,C,Java,JavaScript,&theme=radical">
+<p align="center">
+  <a href="https://github.com/ManicaFelipe/github-readme-streak-stats">
+  <img title="Get streak stats for your profile at git.io/streak-stats" alt="ManicaFelipe's streak" src="https://streak-stats.demolab.com/?user=ManicaFelipe&theme=dark&hide_border=true"/>
+</a>
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ManicaFelipe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+## Profile Stats 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="220" alt="ManicaFelipe's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=ManicaFelipe&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+</p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<p align="center">    
+  <a   href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="600" height="200" alt="ManicaFelipe's Top Languages" src="https://DenverCoder1-github-readme-stats.vercel.app/api/top-langs/?username=ManicaFelipe&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/></a>
 </p> 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐ Thank you!!! </p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="ManicaFelipe's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ManicaFelipe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"></a>
+</p>
+ 
+> <p align="center">If you like it, do fork 🍴 and star ⭐ Thank you!!! </p>
